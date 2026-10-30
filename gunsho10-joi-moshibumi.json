@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/joi-moshibumi",
  "yomi": "じょういほういんもうしぶみ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "申文",
+  "era": "嘉元元年（1303）4月11日",
+  "author": "定為",
+  "desc": "二条家の定為法印が、禁裏で催される百首（嘉元百首）の作者に一門の僧も加えられるよう、隆源・顕昭らの先例を挙げて願い出た申文。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -57,6 +62,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
